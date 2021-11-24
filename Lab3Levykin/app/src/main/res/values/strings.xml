@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3Levykin</string>
+    <string name="BtnQuery">Запрос</string>
+    <string name="TextCity">Город:</string>
+    <string name="BtnSave">Сохранить</string>
+    <string name="BtnCancel">Назад</string>
+    <string name="BtnLoad">Загрузить шаблон</string>
+    <string name="BtnApply">Применить</string>
+    <string name="BtnKey">Изменить ключ</string>
+    <string name="BtnClear">Очистить</string>
+    <string name="BtnHistory">История</string>
+</resources>
